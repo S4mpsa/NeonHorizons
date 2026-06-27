@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 1,
-    "description": "Adds reflections to most blocks in GT:NH"
+    "description": "Adds reflections  and emissives to all blocks in GT:NH"
   }
 }
